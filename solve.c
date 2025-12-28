@@ -1,5 +1,6 @@
 /*
     Maze Solver using stack-based backtracking (DFS)
+    ---> A C project exploring Stack data structures and backtracking to navigate complex 11x11 labyrinths.
     Features: ANSI color support, Error Handling, Memory Safety
     Author: Oguzhan Gundogdu
 */
